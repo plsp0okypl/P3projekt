@@ -1,0 +1,14 @@
+C:\Users\tadeu\source\repos\projekt\src\P3projekt\bin\Debug\net8.0\P3projekt.exe
+C:\Users\tadeu\source\repos\projekt\src\P3projekt\bin\Debug\net8.0\P3projekt.deps.json
+C:\Users\tadeu\source\repos\projekt\src\P3projekt\bin\Debug\net8.0\P3projekt.runtimeconfig.json
+C:\Users\tadeu\source\repos\projekt\src\P3projekt\bin\Debug\net8.0\P3projekt.dll
+C:\Users\tadeu\source\repos\projekt\src\P3projekt\bin\Debug\net8.0\P3projekt.pdb
+C:\Users\tadeu\source\repos\projekt\src\P3projekt\obj\Debug\net8.0\P3projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tadeu\source\repos\projekt\src\P3projekt\obj\Debug\net8.0\P3projekt.AssemblyInfoInputs.cache
+C:\Users\tadeu\source\repos\projekt\src\P3projekt\obj\Debug\net8.0\P3projekt.AssemblyInfo.cs
+C:\Users\tadeu\source\repos\projekt\src\P3projekt\obj\Debug\net8.0\P3projekt.csproj.CoreCompileInputs.cache
+C:\Users\tadeu\source\repos\projekt\src\P3projekt\obj\Debug\net8.0\P3projekt.dll
+C:\Users\tadeu\source\repos\projekt\src\P3projekt\obj\Debug\net8.0\refint\P3projekt.dll
+C:\Users\tadeu\source\repos\projekt\src\P3projekt\obj\Debug\net8.0\P3projekt.pdb
+C:\Users\tadeu\source\repos\projekt\src\P3projekt\obj\Debug\net8.0\P3projekt.genruntimeconfig.cache
+C:\Users\tadeu\source\repos\projekt\src\P3projekt\obj\Debug\net8.0\ref\P3projekt.dll
