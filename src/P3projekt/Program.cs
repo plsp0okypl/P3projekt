@@ -1,7 +1,11 @@
 ﻿using System;
 using Domain.Entities;
 
-
+/*na zadanie 
+ kompozycja
+obiekt domenowy
+obiekt DTO
+serwisy/helpery*/
 
     class Program
     {

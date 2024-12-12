@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tadeu\\source\\repos\\projekt\\src\\P3projekt\\menage_P3projekt.csproj",
+      "projectUniqueName": "C:\\Users\\tadeu\\source\\repos\\p3projekt\\src\\P3projekt\\menage_P3projekt.csproj",
       "projectName": "menage_P3projekt",
-      "projectPath": "C:\\Users\\tadeu\\source\\repos\\projekt\\src\\P3projekt\\menage_P3projekt.csproj",
+      "projectPath": "C:\\Users\\tadeu\\source\\repos\\p3projekt\\src\\P3projekt\\menage_P3projekt.csproj",
       "packagesPath": "C:\\Users\\tadeu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tadeu\\source\\repos\\projekt\\src\\P3projekt\\obj\\",
+      "outputPath": "C:\\Users\\tadeu\\source\\repos\\p3projekt\\src\\P3projekt\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tadeu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\tadeu\\source\\repos\\projekt\\src\\Shared\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\tadeu\\source\\repos\\projekt\\src\\Shared\\Domain\\Domain.csproj"
+            "C:\\Users\\tadeu\\source\\repos\\p3projekt\\src\\Shared\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\tadeu\\source\\repos\\p3projekt\\src\\Shared\\Domain\\Domain.csproj"
             }
           }
         }

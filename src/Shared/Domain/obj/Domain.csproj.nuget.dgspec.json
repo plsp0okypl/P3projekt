@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tadeu\\source\\repos\\projekt\\src\\Shared\\Domain\\Domain.csproj": {}
+    "C:\\Users\\tadeu\\source\\repos\\p3projekt\\src\\Shared\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tadeu\\source\\repos\\projekt\\src\\Shared\\Domain\\Domain.csproj": {
+    "C:\\Users\\tadeu\\source\\repos\\p3projekt\\src\\Shared\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tadeu\\source\\repos\\projekt\\src\\Shared\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\tadeu\\source\\repos\\p3projekt\\src\\Shared\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\tadeu\\source\\repos\\projekt\\src\\Shared\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\tadeu\\source\\repos\\p3projekt\\src\\Shared\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\tadeu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tadeu\\source\\repos\\projekt\\src\\Shared\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\tadeu\\source\\repos\\p3projekt\\src\\Shared\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tadeu\\AppData\\Roaming\\NuGet\\NuGet.Config",
